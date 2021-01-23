@@ -16,7 +16,6 @@ body{
   }
   
   .container{
-      justify-content: space-around;
       color: rgba(255, 255, 255, 0.479);
      
   }
@@ -39,8 +38,9 @@ body{
     color: white;
   }
   span {
-    color: rgba(30, 27, 175, 0.952);
+    color: rgba(216, 167, 8, 0.952);
     font-size: 2vw;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
   }
   #ol{
@@ -79,7 +79,7 @@ body{
    justify-content: flex-start;
    font-family:'Times New Roman', Times, serif;
    background-size: cover;
-     background-position: center;
+   background-position: center;
  }
  .links ul li ::after{
    content: '';
@@ -103,9 +103,7 @@ body{
     height: 40%;
     font-size: medium;
     display: block;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+
     margin: auto;
   }
   #Projects{
