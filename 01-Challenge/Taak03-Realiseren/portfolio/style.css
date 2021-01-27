@@ -1,5 +1,5 @@
 body{
-    width: 100%;
+    width: 90%;
     height: 100%;
     background-image: url(pro.png);
     position: absolute;
@@ -19,6 +19,24 @@ body{
       color: rgba(255, 255, 255, 0.479);
      
   }
+  .moto{
+    position: fixed;
+    width:37%;
+    margin-left: 73%;
+    display: flex;
+    align-items: start;
+    animation: spin 6s linear infinite;
+   
+  }
+  @keyframes spin {
+    0%{
+       transform: rotateY(0deg);
+    }
+
+    100%{
+        transform: rotateY(330deg);
+    }
+}
   h1 {
     font-family: 'Syncopate', sans-serif;
     color: rgba(255, 255, 255, 0.479);
@@ -103,7 +121,6 @@ body{
     height: 40%;
     font-size: medium;
     display: block;
-
     margin: auto;
   }
   #Projects{
@@ -112,6 +129,7 @@ body{
   }
   #contact{
 color: #fff;
+
 }
 
   

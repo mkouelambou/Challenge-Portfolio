@@ -15,7 +15,7 @@ console.log(bezoeker);
      if (bezoeker.leeftijd <18) {
         koptekst.style.color = 'red';
         }
-         else if (bezoeker.leeftijd ==0) {
-            koptekst.style.color = 'lightblue';
+         if (bezoeker.leeftijd ==0) {
+            koptekst.style.color = 'yellow';
                     }
                 }
