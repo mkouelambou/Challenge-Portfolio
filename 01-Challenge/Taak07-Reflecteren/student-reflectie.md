@@ -1,8 +1,8 @@
 # Challenge Portfolio: Reflectie
 
 ### Wat ging er goed tijdens deze Challenge?
-- ...
-- ...
+- Mockup en stylen van portfolio ging best wel goed 
+- Ik heb een nette navbar met 
 - ...
 
 ### Wat kon er beter?

@@ -46,11 +46,11 @@ body{
     font-size: 3vw;
     text-align: start;
   }
-  h3{
+  h2{
     font-family: 'Syncopate', sans-serif;
     color: rgba(255, 255, 255, 0.479);
     text-align: start;
-    font-size:small;
+    font-size:large;
   }
   h4{
     color: white;

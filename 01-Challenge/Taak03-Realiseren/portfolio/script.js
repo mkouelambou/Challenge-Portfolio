@@ -3,7 +3,7 @@ var bezoeker={
     leeftijd : prompt("Wat is je leeftijd?"),
 };
 if (bezoeker.naam != null) {
-    let koptekst = document.querySelector("h3");
+    let koptekst = document.querySelector("h2");
  koptekst.innerHTML = "Welcome ! " + bezoeker.naam + " to my ";
 
 console.log(bezoeker);

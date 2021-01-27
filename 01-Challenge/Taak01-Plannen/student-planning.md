@@ -17,10 +17,10 @@
 | ...         | Styling van elementen bepalen                  | 01:00 u             | Bezig  |
 | Realiseren  | Bestanden aanmaken                             | 02:00 u             | Bezig  |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |  00:20 u            | Bezig  |
+| Testen      | Applicatie testen                              | 00:20 u             | Bezig  |
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |     00:41 u         | Bezig  |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:41 u             | Bezig  |
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren | Presenteren aan klassgenoten                   |                     |        |
 | ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    |                     |        |
