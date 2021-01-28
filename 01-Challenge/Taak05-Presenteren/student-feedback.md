@@ -1,7 +1,7 @@
 # Challenge Portfolio: Feedback
 
 ##  Van wie hebt je feedback gevraagd?  
-- klasgenoten (Mike, Samuel & Meraichio)
+- klasgenoten (Mike, Samuel, Hayder & Meraichio)
 
 ## Feedback.
 
