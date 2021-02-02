@@ -18,4 +18,4 @@
 ### Wat vond je van deze Challenge? 
 - Ik vond de challenge een klein beetje uitdagend. Ik heb wel wat geleerd. Ik heb geleerd hoe de volgende keer een beter website kan maken.
 - Ik wil de volgende keer het een beetje mooier laten uit zien.
-- Ik heb geleerd hoe de volgende keer een beter website kan maken...
+- Ik heb geleerd hoe de volgende keer een beter website kan maken.
