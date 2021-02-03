@@ -9,7 +9,7 @@ body{
       display: inline;
       width: 20vh;
       height: 25vh;
-      top: 33%;
+      top: 30%;
       left: 2%;
       border-radius: 13%;
       box-shadow: 2px 3px 8px gray;
@@ -19,22 +19,26 @@ body{
       color: rgba(255, 255, 255, 0.479);
      
   }
+  .container meter{
+    position: absolute;
+    height: 20%;
+  }
   .logo{
     position: fixed;
     width:37%;
     margin-left: 73%;
     display: flex;
-    align-items: start;
-    animation: spin 6s linear infinite;
+    animation: rotate 6s linear infinite;
+    perspective: 1000px;
    
   }
-  @keyframes spin {
+  @keyframes rotate {
     0%{
        transform: rotateY(0deg);
     }
 
     100%{
-        transform: rotateY(365deg);
+        transform: rotateY(370deg);
     }
 }
   h1 {
@@ -122,7 +126,9 @@ body{
     font-size: medium;
     display: block;
     margin: auto;
+    
   }
+  
   #Projects{
       color: #fff;
 
@@ -131,6 +137,11 @@ body{
 color: #fff;
 
 }
-
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
+}
   
   
