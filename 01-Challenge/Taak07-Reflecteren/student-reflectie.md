@@ -7,13 +7,9 @@
 
 ### Wat kon er beter?
 - Volgende keer wil ik het sneller aanpakken.
-- ...
-- ...
 
 ### Van wat er beter kon: hoe ga je dit de volgende keer anders doen?
 - Volgende keer zal ik goed inplannen.
-- ...
-- ...
 
 ### Wat vond je van deze Challenge? 
 - Ik vind de challenge een uitdaging, en daarvoor heb ik mijn best gedaan.
