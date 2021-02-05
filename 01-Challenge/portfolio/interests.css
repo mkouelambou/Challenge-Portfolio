@@ -1,0 +1,87 @@
+* {box-sizing: border-box}
+body{
+background-color: #f6f5f5;
+margin: 0px;
+padding: 0px;
+}
+ul{
+list-style:none;
+}
+a{
+text-decoration: none;
+}
+section{
+width: 100%;
+height: 130vh;
+background-image: url(header.png);
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.52);
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 50px;
+background-color: #ffffff;
+box-shadow: 2px 2px 13px rgba(0, 0, 0, 2);
+padding: 0px 5%;
+}
+nav ul{
+display: flex;
+}
+nav ul li a{
+margin: 30px;
+font-family: myriad pro regular;
+color: #505055;
+font-size: 17px;
+font-weight: 700;
+cursor: pointer;
+}
+nav a:hover{
+color: #000000;
+}
+.logo{
+font-family: Brush Script MT;
+color: #000000;
+font-size: 22px;
+}
+.active{
+font-weight: bold;
+color: #2d2a2a;
+}
+.fawaz{
+    position: relative;
+    width: 200px;
+    height: 300px;
+}
+.hoppy{
+    width: 50%;
+    height: 40%;
+    position: relative;
+    left: 30%;
+}
+table .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+p {
+    font-family: cursive;
+    color: #000000 ;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-align: center;
+    
+    }
+    .text{
+        padding-top: 10%;
+    }
+    
+    p{
+        font-size: large;
+        font-family:sans-serif;
+    }

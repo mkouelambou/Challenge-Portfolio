@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style3.css">
+    <title>Document</title>
+</head>
+<body>
+ <table class="tab">
+     <h1>Calculatorالة حاسبة</h1>
+     <p>Spcialy for the fan of software developer-مبرمجين</p>
+    <tr><td><input class="screen" type="text" id="edu"/>
+        </td></tr>
+    <div class="buttons" name="buttons" >    
+    <tr><td>
+    <input type="button" value="7" onclick="dis('7')">
+    <input type="button" value="8" onclick="dis('8')">
+    <input type="button" value="9" onclick="dis('9')">
+    <input type="button" value="*" onclick="dis('*')">
+    <input type="button" value="Square" onclick="dis('**2')"></td></tr>
+    <tr><td><input type="button" value="4" onclick="dis('4')">
+        <input type="button" value="5" onclick="dis('5')">
+        <input type="button" value="6" onclick="dis('6')">
+        <input type="button" value="-" onclick="dis('-')">
+        <input type="button" value=")" onclick="dis(')')"></td></tr>
+    <tr><td><input type="button" value="1" onclick="dis('1')">
+        <input type="button" value="2" onclick="dis('2')">
+        <input type="button" value="3" onclick="dis('3')">
+        <input type="button" value="+" onclick="dis('+')">
+        <input type="button" value="(" onclick="dis('(')"></td></tr>
+    <tr><td><input type="reset" id="btn" value="C" onclick="clr()">    
+    <input type="button" value="0" onclick="dis('0')">
+    <input type="button" value="=" onclick="solve()">
+    <input type="button" value="/" onclick="dis('/')"> 
+    <input type="button" value="." onclick="dis('.')"></td></tr>
+     
+</table>   
+</div>
+<script>
+    //function for displaying values
+    function dis(val)
+    {
+    document.getElementById("edu").value+=val
+     }
+    //function for evaluation
+    function solve()
+    {
+    let x = document.getElementById("edu").value
+    let y = eval(x)
+    document.getElementById("edu").value = y
+    }
+    //function for clearing the display
+    function clr()
+    {
+    document.getElementById("edu").value = ""
+    }
+    </script>    
+</body>
+</html>
