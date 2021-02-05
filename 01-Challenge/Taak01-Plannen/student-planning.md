@@ -14,14 +14,10 @@
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Voldaan|
 | Ontwerpen   | Mockup van portfolio maken                     | 01:30 u             | Voldaan|
-| ...         | Styling van elementen bepalen                  | 00:30 u             | Voldaan|
+| Ontwerpen   | Styling van elementen bepalen                  | 00:30 u             | Voldaan|
 | Realiseren  | Bestanden aanmaken                             | 00:15 u             | Voldaan|
-| ...         |                                                |                     |        |
 | Testen      | Applicatie testen                              | 00:45 u             | Voldaan|
-| ...         |                                                |                     |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:30 u             | Voldaan|
-| ...         |                                                |                     |        |
 | Vebeteren    Presenteren feedback vragen en presentatie      | 00:15 u             | Voldaan|
-| ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | Voldaan|
 | Refecteren  | Website op Github Live zetten                  | 00:15 u             | Voldaan|
