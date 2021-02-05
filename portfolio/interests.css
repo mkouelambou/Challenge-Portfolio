@@ -85,3 +85,48 @@ p {
         font-size: large;
         font-family:sans-serif;
     }
+    footer{
+        height: 150px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.52);
+    
+    }
+    .social-icons a{
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #e6e3e3;
+        margin: 20px 10px;
+        border-radius: 50%;
+    }
+    .social-icons{
+        display: flex;
+    }
+    .social-icons i{
+        color: #000000;
+    }
+    .social-icons a:hover{
+        background-color: #000000;
+        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+        transition: all ease 0.4s;
+    }
+    .social-icons a:hover i{
+        color: #ffffff;
+        transition: all ease;
+    }
+    .copyright{
+        color:#565555;
+        font-size: 15px;
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        transform: translateX(-50%);
+        box-shadow: 2px 2px 12px rgba(15, 15, 15, 0.548);
+        font-family: calibri;
+    }

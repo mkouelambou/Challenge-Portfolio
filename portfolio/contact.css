@@ -74,7 +74,7 @@ font-weight: bold;
 color: #2d2a2a;
 }
 footer{
-    height: 100px;
+    height: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -107,4 +107,14 @@ footer{
 .social-icons a:hover i{
     color: #ffffff;
     transition: all ease;
+}
+.copyright{
+    color:#565555;
+    font-size: 15px;
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    box-shadow: 2px 2px 12px rgba(15, 15, 15, 0.548);
+    font-family: calibri;
 }
