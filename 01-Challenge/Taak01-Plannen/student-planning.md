@@ -21,6 +21,6 @@
 | ...         |                                                |                     |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:41 u             | voldaan|
 | ...         |                                                |                     |        |
-| Presenteren | Presenteren aan klassgenoten                   | 00:07 u             | voldaan|
+| Presenteren | Presenteren aan klassgenoten                   | 00:15 u             | voldaan|
 | ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    | 00:27u              | voldaan|
