@@ -21,7 +21,7 @@
 | ...         |                                                |                     |        |
 | Verbeteren  | Problemen gevonden tijdens het testen oplossen | 01:30 u             | Voldaan|
 | ...         |                                                |                     |        |
-| Presenteren feedback vragen en presentatie                   | 00:15 u             | Voldaan|
+| Vebeteren    Presenteren feedback vragen en presentatie      | 00:15 u             | Voldaan|
 | ...         |                                                |                     |        |
 | Refecteren  | Reflectiedocument schrijven                    | 00:30 u             | Voldaan|
 | Refecteren  | Website op Github Live zetten                  | 00:15 u             | Voldaan|
